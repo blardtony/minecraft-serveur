@@ -1,0 +1,76 @@
+[11:56:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:56:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:56:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:56:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:56:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:56:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:56:07] [main/INFO]: Reloading ResourceManager: Default
+[11:56:10] [Worker-Main-11/INFO]: Loaded 7 recipes
+[11:56:11] [Worker-Main-11/INFO]: Loaded 1137 advancements
+[11:56:13] [Server thread/INFO]: Starting minecraft server version 1.17
+[11:56:13] [Server thread/INFO]: Loading properties
+[11:56:13] [Server thread/INFO]: Default game type: SURVIVAL
+[11:56:13] [Server thread/INFO]: Generating keypair
+[11:56:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:56:13] [Server thread/INFO]: Using epoll channel type
+[11:56:14] [Server thread/INFO]: Preparing level "world"
+[11:56:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:56:23] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:56:23] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:56:23] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:56:23] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[11:56:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:56:24] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:56:25] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[11:56:25] [Worker-Main-9/INFO]: Preparing spawn area: 1%
+[11:56:26] [Worker-Main-13/INFO]: Preparing spawn area: 2%
+[11:56:26] [Worker-Main-12/INFO]: Preparing spawn area: 3%
+[11:56:27] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[11:56:27] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[11:56:28] [Worker-Main-10/INFO]: Preparing spawn area: 5%
+[11:56:28] [Worker-Main-11/INFO]: Preparing spawn area: 6%
+[11:56:29] [Worker-Main-11/INFO]: Preparing spawn area: 7%
+[11:56:29] [Worker-Main-13/INFO]: Preparing spawn area: 7%
+[11:56:30] [Worker-Main-11/INFO]: Preparing spawn area: 8%
+[11:56:30] [Worker-Main-13/INFO]: Preparing spawn area: 8%
+[11:56:31] [Worker-Main-14/INFO]: Preparing spawn area: 8%
+[11:56:31] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[11:56:32] [Worker-Main-10/INFO]: Preparing spawn area: 11%
+[11:56:32] [Worker-Main-12/INFO]: Preparing spawn area: 12%
+[11:56:33] [Worker-Main-10/INFO]: Preparing spawn area: 13%
+[11:56:33] [Worker-Main-8/INFO]: Preparing spawn area: 13%
+[11:56:34] [Worker-Main-9/INFO]: Preparing spawn area: 13%
+[11:56:34] [Worker-Main-13/INFO]: Preparing spawn area: 18%
+[11:56:35] [Worker-Main-12/INFO]: Preparing spawn area: 22%
+[11:56:35] [Worker-Main-8/INFO]: Preparing spawn area: 24%
+[11:56:36] [Worker-Main-12/INFO]: Preparing spawn area: 27%
+[11:56:36] [Worker-Main-13/INFO]: Preparing spawn area: 31%
+[11:56:37] [Worker-Main-9/INFO]: Preparing spawn area: 34%
+[11:56:37] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[11:56:38] [Worker-Main-12/INFO]: Preparing spawn area: 39%
+[11:56:38] [Worker-Main-8/INFO]: Preparing spawn area: 42%
+[11:56:39] [Worker-Main-8/INFO]: Preparing spawn area: 46%
+[11:56:39] [Worker-Main-9/INFO]: Preparing spawn area: 48%
+[11:56:40] [Worker-Main-11/INFO]: Preparing spawn area: 51%
+[11:56:40] [Worker-Main-9/INFO]: Preparing spawn area: 55%
+[11:56:41] [Worker-Main-9/INFO]: Preparing spawn area: 57%
+[11:56:41] [Worker-Main-9/INFO]: Preparing spawn area: 61%
+[11:56:42] [Worker-Main-12/INFO]: Preparing spawn area: 64%
+[11:56:42] [Worker-Main-12/INFO]: Preparing spawn area: 68%
+[11:56:43] [Worker-Main-12/INFO]: Preparing spawn area: 70%
+[11:56:43] [Worker-Main-11/INFO]: Preparing spawn area: 74%
+[11:56:44] [Worker-Main-8/INFO]: Preparing spawn area: 77%
+[11:56:44] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[11:56:45] [Worker-Main-13/INFO]: Preparing spawn area: 87%
+[11:56:45] [Worker-Main-9/INFO]: Preparing spawn area: 89%
+[11:56:46] [Worker-Main-14/INFO]: Preparing spawn area: 93%
+[11:56:46] [Worker-Main-13/INFO]: Preparing spawn area: 98%
+[11:56:46] [Server thread/INFO]: Time elapsed: 24591 ms
+[11:56:46] [Server thread/INFO]: Done (32.796s)! For help, type "help"
+[11:56:46] [Server thread/INFO]: Starting remote control listener
+[11:56:46] [Server thread/INFO]: Thread RCON Listener started
+[11:56:46] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[12:00:22] [Server thread/WARN]: handleDisconnection() called twice
+[12:03:06] [User Authenticator #1/INFO]: UUID of player ynot_55 is f6c9b48f-8dbd-4a70-a720-d80eba6e3107
+[12:03:06] [Server thread/INFO]: ynot_55[/172.17.0.1:44084] logged in with entity id 218 at (203.5, 66.0, -126.5)
+[12:03:06] [Server thread/INFO]: ynot_55 joined the game
